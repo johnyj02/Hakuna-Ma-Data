@@ -27,7 +27,8 @@ about_content: | # this will include new lines to allow paragraphs
 I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
-projects_title: Prognostic Predictions post Cardiac Arrest
+#projects_title: Prognostic Predictions post Cardiac Arrest
+projects_title_content:
 
 
 # Experience Section
