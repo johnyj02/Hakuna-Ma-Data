@@ -40,11 +40,11 @@ I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
+  Alongside my interests in Data Science and Data Analytics some of my other interests and hobbies are:
+   - Taking part in Kaggle competitions 
    - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Coin collection
+
 
 # Footer
 footer_show_references: true
