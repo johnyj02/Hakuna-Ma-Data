@@ -5,7 +5,7 @@
   quote: >
   description: | # this will include new lines to allow paragraphs
     Predicted patient’s neurological outcome within 10 hours after resuscitation using an ensemble model of ANN and Xgb. Employed a twin model approach, one with emphasis on interpretability using Xgboost + Shap values and the other with emphasis on boosting sensitivity using a CNN-LSTM architecture.Identified new predictors from the patients qEEG signals that aids physician’s decision on withdrawal of life support which improved sensitivity from 36% to 71% with a 100% specificity 
-<t><t><t><t> ---------------------</t></t></t></t>
+line_break: ---------------------
 - layout: left
   name: New York Traffic accidents web app 
   link: http://nyc-traffic-accidents.herokuapp.com/
