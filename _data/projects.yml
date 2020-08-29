@@ -12,5 +12,13 @@
   github: johnyj02/NYC-Traffic-accidents-web-app
   quote: >
   description: | # this will include new lines to allow paragraphs
-    The web app aims to demonstrate how easy it is to use streamlit to deploy machine learning models and web applications. In this project I have used streamlit and plotly express to create interactive maps and breakdown charts and used streamlit chaching to ensure the quick and easy processing.
+    The web app aims to demonstrate how easy it is to use streamlit to deploy machine learning models and web applications. In this project I have used streamlit and plotly express to create interactive maps and breakdown charts to analyze how safe are you in the streets of NYC. I have also used streamlit chaching to ensure the quick and easy processing.
+  line_break: ---------------------
+- layout: left
+  name: New York Traffic accidents web app 
+  link: http://nyc-traffic-accidents.herokuapp.com/
+  github: johnyj02/NYC-Traffic-accidents-web-app
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    The web app aims to demonstrate how easy it is to use streamlit to deploy machine learning models and web applications. In this project I have used streamlit and plotly express to create interactive maps and breakdown charts to analyze how safe are you in the streets of NYC. I have also used streamlit chaching to ensure the quick and easy processing.
   line_break: ---------------------
